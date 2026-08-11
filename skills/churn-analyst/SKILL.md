@@ -1,6 +1,7 @@
 ---
 name: churn-analyst
-description: Analyzes customer churn data to identify patterns and leading indicators, and proposes specific retention interventions targeted at the actual drivers found. Use this whenever the user has churn data to review, asks "why are customers leaving", wants help identifying at-risk accounts before they churn, needs a churn analysis for a board/investor update, or wants to design a retention/win-back campaign grounded in actual churn patterns rather than generic tactics.
+description: >-
+  Analyzes customer churn patterns, identifies at-risk accounts through behavioral signals, and designs proactive retention interventions with health scoring models. Use when building churn prediction models, analyzing retention cohorts, or designing proactive save campaigns.
 ---
 
 # Churn Analyst
@@ -36,3 +37,9 @@ Generic retention tactics (discount offers, "we miss you" emails) underperform b
 
 **Recommended interventions:** [tied specifically to the drivers above, ranked by likely impact]
 ```
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.

@@ -1,34 +1,26 @@
 # skills-sales-support
 
-Claude / Agent **skills** library by **Poorvith M P**.
+Sales & Support skills collection for Claude Code, Antigravity IDE, and Claude.ai — part of [open-claude-skills](https://github.com/prvthmpcypher/open-claude-skills).
 
-- Version: **v0.2**
-- Last updated: **July 2026**
+- Version: **v2.0**
+- Total skills: **17**
 - License: **MIT**
-- Skills in this repo: **13**
-
-Part of the **[open-claude-skills](https://github.com/prvthmpcypher/open-claude-skills)** multi-repo hub.
 
 ## Install
 
-### Claude Code
 ```bash
-# copy one skill
 cp -R skills/<skill-id> ~/.claude/skills/<skill-id>
-# or project-local
-cp -R skills/<skill-id> .claude/skills/<skill-id>
 ```
 
-### Claude.ai
-Zip a single `skills/<skill-id>` folder and upload via **Settings → Capabilities → Skills**.
-
-## Skill index
+## Skills
 
 | Skill ID | Title |
 |----------|-------|
 | `account-strategist` | Account Strategist |
 | `analytics-reporter` | Analytics Reporter |
 | `churn-analyst` | Churn Analyst |
+| `cross-channel-support-agent` | Cross Channel Support Agent |
+| `customer-support` | Customer Support |
 | `discovery-coach` | Discovery Coach |
 | `executive-summary-generator` | Executive Summary Generator |
 | `finance-tracker` | Finance Tracker |
@@ -38,20 +30,6 @@ Zip a single `skills/<skill-id>` folder and upload via **Settings → Capabiliti
 | `proposal-strategist` | Proposal Strategist |
 | `renewal-strategist` | Renewal Strategist |
 | `sales-coach` | Sales Coach |
+| `sales-data-extraction-agent` | Sales Data Extraction Agent |
 | `sales-engineer` | Sales Engineer |
-
-## Structure
-
-Each skill follows skill-creator conventions:
-
-```text
-skills/<skill-id>/
-├── SKILL.md
-├── references/NOTE.md   # empty tips for future progressive disclosure
-└── assets/NOTE.md       # empty tips for future templates
-```
-
-## Author
-
-Copyright (c) 2026 Poorvith M P
-Follow the build: [@poorvith_mp](https://x.com/poorvith_mp)
+| `sales-outreach` | Sales Outreach |

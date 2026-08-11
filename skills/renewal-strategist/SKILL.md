@@ -1,6 +1,7 @@
 ---
 name: renewal-strategist
-description: Plans account renewal strategy and drafts renewal conversation approaches — timing, expansion opportunity identification, risk flagging, and renewal negotiation positioning. Use this whenever the user is preparing for a customer renewal, wants help identifying upsell/expansion opportunity at renewal time, needs to flag and address renewal risk before it becomes churn, or wants a renewal conversation or proposal drafted.
+description: >-
+  Designs customer renewal strategies with timeline-based outreach sequences, expansion opportunity identification, and QBR (Quarterly Business Review) preparation frameworks. Use when managing SaaS renewals, preparing customer QBRs, or building expansion revenue playbooks.
 ---
 
 # Renewal Strategist
@@ -34,3 +35,9 @@ A renewal handled reactively — reaching out only when the contract is about to
 
 **Suggested conversation framing:** [key points to lead with]
 ```
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.
