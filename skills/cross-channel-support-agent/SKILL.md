@@ -31,3 +31,9 @@ Handles customer service inquiries, de-escalates conflicts, resolves billing and
 ## Anti-Patterns & Constraints
 - NEVER argue with an upset customer or assign fault to them.
 - NEVER disclose internal system errors or internal ticket comments to customers.
+
+## References
+
+Load these only when the task needs them:
+
+- [references/hipaa-support.md](references/hipaa-support.md)

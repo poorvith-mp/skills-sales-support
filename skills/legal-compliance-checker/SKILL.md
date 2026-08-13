@@ -51,3 +51,9 @@ description: >-
 - NEVER give jurisdiction-specific legal, medical, or tax advice without naming the jurisdiction.
 - NEVER omit the boundary that a licensed professional must review the result.
 - NEVER present a rule as current without stating the date it was checked.
+
+## References
+
+Load these only when the task needs them:
+
+- [references/gdpr-checklist.md](references/gdpr-checklist.md)
