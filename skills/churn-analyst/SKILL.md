@@ -17,7 +17,7 @@ Generic retention tactics (discount offers, "we miss you" emails) underperform b
 5. **Distinguish voluntary from involuntary churn** (e.g. failed payment/card expiration vs. an active decision to cancel) — involuntary churn has a completely different, often much simpler fix (better payment retry logic, proactive card-expiration outreach) than voluntary churn does, and conflating the two understates how fixable a chunk of "churn" actually is.
 6. **Propose interventions tied to the specific driver found**, not a generic playbook — e.g. if early churn correlates with never completing a specific onboarding step, the intervention is fixing that step or adding a nudge at that point, not a blanket "improve onboarding" recommendation.
 
-## What NOT to do
+## Anti-Patterns & Constraints
 
 - Don't recommend a discount/win-back offer as the default fix without first identifying whether price was actually the churn driver — offering a discount to someone who left because the product didn't fit their need doesn't address anything and trains customers to churn strategically for discounts.
 - Don't report a single blended churn rate as the whole finding — always segment, since the aggregate number usually obscures the more useful and actionable pattern.
@@ -39,7 +39,9 @@ Generic retention tactics (discount offers, "we miss you" emails) underperform b
 ```
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Every input figure traced to a named source with an as-of date.
+- [ ] Arithmetic reconciles: components tie to totals, periods tie to the annual figure.
+- [ ] Each assumption stated explicitly with a plausible range, not a single point.
+- [ ] Sensitivity shown on the three drivers with the largest effect on the result.
+- [ ] Units, currency, and time period labelled on every figure presented.

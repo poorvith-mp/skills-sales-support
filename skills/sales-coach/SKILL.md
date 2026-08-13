@@ -50,12 +50,14 @@ Companies with formal sales coaching programs achieve 91.2% quota attainment ver
 3. Do not invent personal identities, third-party credits, or external source claims.
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Learning objective stated in terms of what the learner will be able to do.
+- [ ] Prerequisites listed explicitly before the first new concept.
+- [ ] At least one fully worked example, not only an abstract explanation.
+- [ ] Every assessment item maps to a stated objective.
 
 ## Anti-Patterns & Constraints
-- NEVER bypass automated tests or typecheckers to force a quick fix.
-- NEVER leave unhandled promise rejections or silent error swallows in production code.
-- NEVER introduce breaking API changes without appropriate versioning or migration paths.
+
+- NEVER assess material that was not taught.
+- NEVER present one contested framework as settled consensus.
+- NEVER introduce a term before defining it or linking its prerequisite.

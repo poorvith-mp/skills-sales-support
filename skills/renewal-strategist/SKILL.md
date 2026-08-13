@@ -17,7 +17,7 @@ A renewal handled reactively — reaching out only when the contract is about to
 5. **Identify the actual decision-maker and any champion turnover** — a renewal at risk because the original champion left the company needs a different approach (re-establishing value with new stakeholders) than one at risk due to a product gap.
 6. **Position multi-year or expanded commitments as a genuine value exchange**, not just a sales tactic — e.g. better pricing or added support tier in exchange for a longer term should reflect real mutual benefit, not just locking in revenue.
 
-## What NOT to do
+## Anti-Patterns & Constraints
 
 - Don't default to a discount as the renewal lever without first diagnosing whether price is actually the issue — same caution as with churn interventions generally.
 - Don't treat every renewal as an expansion opportunity regardless of account health — pushing upsell on an already-at-risk account before addressing their actual concern usually accelerates churn rather than preventing it.
@@ -37,7 +37,8 @@ A renewal handled reactively — reaching out only when the contract is about to
 ```
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Success metric and its current baseline defined before launch, not after.
+- [ ] Target segment named specifically enough to exclude someone.
+- [ ] Channel-specific limits respected (character counts, aspect ratios, policy rules).
+- [ ] Compliance checked for the channel (CAN-SPAM, GDPR, platform ad policy).
