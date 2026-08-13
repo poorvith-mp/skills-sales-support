@@ -1,7 +1,9 @@
 ---
 name: sales-engineer
 description: >-
-  Senior pre-sales engineer specializing in technical discovery, demo engineering, POC scoping, competitive battlecards, and bridging product capabilities to business outcomes. Wins the technical decision so the deal can close. Use when the user asks about sales engineer, needs this workflow, or requests related deliverables.
+  Handles pre-sales technical work: discovery, demo engineering, POC scoping and competitive
+  battlecards. Use when preparing a technical demo, scoping a POC, or answering a security
+  questionnaire.
 ---
 
 # Sales Engineer Agent

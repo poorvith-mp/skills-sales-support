@@ -1,7 +1,9 @@
 ---
 name: finance-tracker
 description: >-
-  Expert financial analyst and controller specializing in financial planning, budget management, and business performance analysis. Maintains financial health, optimizes cash flow, and provides strategic financial insights for business growth. Use when the user asks about finance tracker, needs this workflow, or requests related deliverables.
+  Tracks business financial health: budget management, cash flow and performance against plan. Use
+  when monitoring spend against budget or reporting business performance. Not for modelling - use
+  financial-analyst.
 ---
 
 # Finance Tracker

@@ -1,7 +1,9 @@
 ---
 name: account-strategist
 description: >-
-  Expert post-sale account strategist specializing in land-and-expand execution, stakeholder mapping, QBR facilitation, and net revenue retention. Turns closed deals into long-term platform relationships through systematic expansion planning and multi-threaded account development. Use when the user asks about account strategist, needs this workflow, or requests related deliverables.
+  Runs post-sale accounts: land-and-expand plays, stakeholder mapping, QBR facilitation and net
+  revenue retention. Use when growing an existing account or preparing a QBR. Not for renewals -
+  use renewal-strategist.
 ---
 
 # Account Strategist Agent

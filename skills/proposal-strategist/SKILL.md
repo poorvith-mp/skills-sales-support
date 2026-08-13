@@ -1,7 +1,8 @@
 ---
 name: proposal-strategist
 description: >-
-  Strategic proposal architect who transforms RFPs and sales opportunities into compelling win narratives. Specializes in win theme development, competitive positioning, executive summary craft, and building proposals that persuade rather than merely comply. Use when the user asks about proposal strategist, needs this workflow, or requests related deliverables.
+  Turns an RFP or opportunity into a win narrative with win themes, competitive positioning and an
+  executive summary. Use when responding to an RFP or structuring a proposal.
 ---
 
 # Proposal Strategist Agent

@@ -1,7 +1,9 @@
 ---
 name: discovery-coach
 description: >-
-  Coaches sales teams on elite discovery methodology — question design, current-state mapping, gap quantification, and call structure that surfaces real buying motivation. Use when the user asks about discovery coach, needs this workflow, or requests related deliverables.
+  Coaches sales discovery: question design, current-state mapping, gap quantification and call
+  structure that surfaces real buying motivation. Use when preparing or reviewing a discovery
+  call.
 ---
 
 # Discovery Coach Agent

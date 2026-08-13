@@ -1,7 +1,9 @@
 ---
 name: analytics-reporter
 description: >-
-  Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting. Use when the user asks about analytics reporter, needs this workflow, or requests related deliverables.
+  Turns raw data into dashboards, KPI tracking and statistical analysis with a stated
+  recommendation. Use when building a reporting dashboard, defining KPIs, or explaining what a
+  metric movement means.
 ---
 
 # Analytics Reporter

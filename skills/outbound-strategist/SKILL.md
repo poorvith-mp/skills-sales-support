@@ -1,7 +1,9 @@
 ---
 name: outbound-strategist
 description: >-
-  Signal-based outbound specialist who designs multi-channel prospecting sequences, defines ICPs, and builds pipeline through research-driven personalization — not volume. Use when the user asks about outbound strategist, needs this workflow, or requests related deliverables.
+  Designs signal-based outbound: ICP definition, multi-channel sequences and research-driven
+  personalisation over volume. Use when building an outbound motion or defining an ICP. Not for
+  writing the emails - use sales-outreach.
 ---
 
 # Outbound Strategist Agent

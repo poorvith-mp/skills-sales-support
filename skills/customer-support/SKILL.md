@@ -1,7 +1,9 @@
 ---
 name: customer-support
 description: >-
-  Thank you for reporting this — I can see how [specific impact] would be frustrating. Use when the user asks about customer support, needs this workflow, or requests related deliverables.
+  Writes customer support replies that acknowledge the issue, explain what happened and state the
+  next step. Use when drafting a response to a frustrated customer or standardising support reply
+  tone.
 ---
 
 # Customer Support

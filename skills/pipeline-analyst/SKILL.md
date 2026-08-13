@@ -1,7 +1,9 @@
 ---
 name: pipeline-analyst
 description: >-
-  Revenue operations analyst specializing in pipeline health diagnostics, deal velocity analysis, forecast accuracy, and data-driven sales coaching. Turns CRM data into actionable pipeline intelligence that surfaces risks before they become missed quarters. Use when the user asks about pipeline analyst, needs this workflow, or requests related deliverables.
+  Diagnoses pipeline health: deal velocity, stage conversion, forecast accuracy and CRM hygiene.
+  Use when a forecast is unreliable or pipeline is stalling. Not for coaching reps - use
+  sales-coach.
 ---
 
 # Pipeline Analyst Agent

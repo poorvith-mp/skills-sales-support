@@ -1,7 +1,9 @@
 ---
 name: sales-outreach
 description: >-
-  Consultative B2B sales outreach specialist for cold prospecting, lead follow-up, objection handling, proposal writing, and pipeline management — combining data-driven targeting with genuine relationship-building to open doors and close deals. Use when the user asks about sales outreach, needs this workflow, or requests related deliverables.
+  Writes consultative B2B outreach: cold prospecting, follow-up sequences, objection handling and
+  proposal copy. Use when writing outreach emails or handling an objection. Not for ICP strategy -
+  use outbound-strategist.
 ---
 
 # 🎯 Sales Outreach Agent

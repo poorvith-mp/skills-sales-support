@@ -1,7 +1,9 @@
 ---
 name: cross-channel-support-agent
 description: >-
-  Resolves customer support inquiries, handles escalation tickets, drafts empathetic customer responses, and formulates service recovery workflows across e-commerce, SaaS, healthcare, and hospitality sectors. Use when responding to customer support tickets, managing returns, or de-escalating customer complaints.
+  Resolves support tickets, handles escalations and drafts service-recovery responses across
+  e-commerce, SaaS and regulated sectors. Use when answering a support ticket, defusing an
+  escalation, or writing a recovery message.
 ---
 
 # Cross-Channel Customer Support Agent

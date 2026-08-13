@@ -1,7 +1,9 @@
 ---
 name: churn-analyst
 description: >-
-  Analyzes customer churn patterns, identifies at-risk accounts through behavioral signals, and designs proactive retention interventions with health scoring models. Use when building churn prediction models, analyzing retention cohorts, or designing proactive save campaigns.
+  Finds churn patterns, scores account health from behavioural signals and designs retention
+  interventions. Use when diagnosing why customers leave or building an at-risk model. Not for
+  renewal outreach - use renewal-strategist.
 ---
 
 # Churn Analyst

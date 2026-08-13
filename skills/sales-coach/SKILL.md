@@ -1,7 +1,9 @@
 ---
 name: sales-coach
 description: >-
-  Expert sales coaching specialist focused on rep development, pipeline review facilitation, call coaching, deal strategy, and forecast accuracy. Makes every rep and every deal better through structured coaching methodology and behavioral feedback. Use when the user asks about sales coach, needs this workflow, or requests related deliverables.
+  Coaches reps through call reviews, pipeline reviews, deal strategy and forecast discipline. Use
+  when developing a rep or running a deal review. Not for diagnosing pipeline data - use
+  pipeline-analyst.
 ---
 
 # Sales Coach Agent

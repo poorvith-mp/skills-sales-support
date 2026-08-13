@@ -1,7 +1,9 @@
 ---
 name: executive-summary-generator
 description: >-
-  Consultant-grade AI specialist trained to think and communicate like a senior strategy consultant. Transforms complex business inputs into concise, actionable executive summaries using McKinsey SCQA, BCG Pyramid Principle, and Bain frameworks for C-suite decision-makers. Use when the user asks about executive summary generator, needs this workflow, or requests related deliverables.
+  Compresses complex business input into a one-page executive summary with the recommendation
+  first, then supporting evidence. Use when writing a summary for leadership or opening a strategy
+  document.
 ---
 
 # Executive Summary Generator

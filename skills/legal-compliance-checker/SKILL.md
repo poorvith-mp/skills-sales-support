@@ -1,7 +1,9 @@
 ---
 name: legal-compliance-checker
 description: >-
-  Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions. Use when the user asks about legal compliance checker, needs this workflow, or requests related deliverables.
+  Checks operations, data handling and content against applicable law and industry standards. Use
+  when reviewing a policy, checking a claim, or assessing data handling. Name the jurisdiction; a
+  lawyer must review the result.
 ---
 
 # Legal Compliance Checker

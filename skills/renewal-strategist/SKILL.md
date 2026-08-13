@@ -1,7 +1,9 @@
 ---
 name: renewal-strategist
 description: >-
-  Designs customer renewal strategies with timeline-based outreach sequences, expansion opportunity identification, and QBR (Quarterly Business Review) preparation frameworks. Use when managing SaaS renewals, preparing customer QBRs, or building expansion revenue playbooks.
+  Plans renewals: timeline-based outreach, expansion opportunities and QBR preparation. Use when a
+  renewal date is approaching or building a renewal playbook. Not for churn diagnosis - use
+  churn-analyst.
 ---
 
 # Renewal Strategist
