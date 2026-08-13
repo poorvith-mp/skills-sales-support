@@ -1,0 +1,19 @@
+{
+  "name": "skills-sales-support",
+  "displayName": "Sales & Support Skills",
+  "version": "1.0.0",
+  "description": "17 sales & support skills. Sales execution, pre-sales, customer support, retention and revenue analysis.",
+  "author": {
+    "name": "Poorvith M P",
+    "url": "https://github.com/prvthmpcypher"
+  },
+  "homepage": "https://github.com/prvthmpcypher/skillary",
+  "repository": "https://github.com/prvthmpcypher/skills-sales-support",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "support",
+    "customer-success",
+    "agent-skills"
+  ]
+}
